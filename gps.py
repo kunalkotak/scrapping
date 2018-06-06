@@ -48,7 +48,7 @@ def more_locations(result):
     return gps
 
 #calling both the functions and storing the final list in gps_links
-gps_links=more_locations(search_results_google('Dmart Stores in vadodara'))
+gps_links=more_locations(search_results_google('Search location Here')) #edit this search part
 
 
 
